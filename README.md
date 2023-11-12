@@ -1,4 +1,3 @@
-# osu-Skins
 # Collection of all my osu! skins
 ## [#[DT] Red](https://drive.google.com/file/d/1_jqKq8UDtjHs3IlyFQ6OfjMqNmtxebHZ/view?usp=drive_link)
 ![image](https://imgur.com/1hn71aQ.png)
